@@ -35,3 +35,6 @@ button {
   height: 250px;
   border-radius: 5%;
 }
+.item {
+  list-style-type: none;
+}
